@@ -32,14 +32,14 @@ Make directory `output/` writable.
 Create `config/config.neon` file and add there following lines (updated with your values):
 
 ```php
-url: 			https://www.newlogic.cz/kontakt/
-pattern: 		"/tel:([+\\d]*)/"
-screen_height: 	2000
-from_email: 	test@newlogic.cz
-to_email: 		test@newlogic.cz
-subject: 		Website contact info changed
-sms_email: 		"776872777@sms.t-mobile.cz"
-chrome_path:	"c:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+url: https://www.newlogic.cz/kontakt/
+pattern: "/tel:([+\\d]*)/"
+screen_height: 2000
+from_email: test@newlogic.cz
+to_email: test@newlogic.cz
+subject: Website contact info changed
+sms_email: "776872777@sms.t-mobile.cz"
+chrome_path: "c:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
 ```
 
 
