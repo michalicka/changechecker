@@ -1,0 +1,8 @@
+{
+    "require": {
+        "chrome-php/chrome": "^0.8.1",
+        "guzzlehttp/guzzle": "^7.1",
+        "phpmailer/phpmailer": "^6.1",
+        "nette/neon": "^3.2"
+    }
+}
